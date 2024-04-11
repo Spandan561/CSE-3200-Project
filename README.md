@@ -20,7 +20,7 @@ For text preprocessing, we have done several approaches. We convert all the lett
 There are 4 types of tweets we find. Positive, Negative, Neutral, Irrelevent. We plot their number and how often they come in our dataset.
 # Training, Testing and TF-IDF Vectorization
 We train 80% data and test 20% data. After training, we use TF-IDF vectorizer refers to the term Frequency - Inverse Document Frequency. Here, we have counted how many times and in which respect the words come in each sentence.
-# Use algorithms
+# Used algorithms
 We have used three algorithms to check how machine can predict the original values. We have used Logistic Regression, Random Forest and Decision tree algorithm. Here we get highest 91% accuracy from Random forest algorithm.
 # Word Cloud
 We have represented the words which are frequently being available in each class.
